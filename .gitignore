@@ -1,0 +1,13 @@
+# Virtual Env
+env/
+
+# Python related
+*.pyc
+__pycache__/
+
+# Data related
+
+
+# Misc
+.env
+*~
